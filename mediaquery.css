@@ -1,1 +1,15 @@
-@media (max-width:)
+
+@media (max-width:67em) {
+    html {
+        font-size: 50%;
+    }
+}
+@media(max-width:83em) {
+  .content-permbajtja {
+      font-size: 80%;
+  }
+@media(max-width:50em) {
+  .header {
+      width: 100%;
+  }
+}
